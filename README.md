@@ -1,4 +1,4 @@
-# Mext Minimal Typescript and Tailwind
+# NextJS Minimal Typescript and Tailwind
 
 A minimal template/example for NextJS that uses typescript + tailwind css.
 
